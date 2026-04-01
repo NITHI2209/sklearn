@@ -1,0 +1,3 @@
+Scikit-learn is a popular Python library used for machine learning and data analysis. It is built on top of libraries like NumPy, Pandas, and Matplotlib. Scikit-learn is an open-source machine learning library in Python that provides simple and efficient tools for data analysis and modeling. It is widely used in both academic research and industry for building predictive models and performing data mining tasks.
+
+What you can do with Scikit-learn: 1)Classification → Predict categories (e.g., spam vs not spam) 2)Regression → Predict continuous values (e.g., price prediction) 3)Clustering → Group similar data (e.g., customer segmentation) 4)Dimensionality Reduction → Reduce features (e.g., PCA) 5)Model Evaluation → Accuracy, confusion matrix, etc.
