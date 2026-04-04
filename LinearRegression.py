@@ -8,5 +8,5 @@ model.fit(X,y)
 pred = model.predict(X)
 plt.scatter(pred,y)
 plt.show()
-#Refer Figure 1
+# #Refer Figure 1
 
