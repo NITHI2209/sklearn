@@ -9,5 +9,3 @@ print(f'Number of null values after imputing:{df.age.isnull().sum()}')
 impo = SimpleImputer(strategy="most_frequent")
 df["cabin"] = impo.fit_transform(df[["cabin"]]).ravel()
 print(f'Number of null values after imputing:{df.cabin.isnull().sum()}')
-
-
